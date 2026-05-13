@@ -64,3 +64,4 @@ Automated tracking of all Clankers PR contributors.
 | realkoreanbeef | 1 | 2026-05-13 |
 | ErenCankutUYSAL | 1 | 2026-05-13 |
 | canburakyol | 1 | 2026-05-13 |
+| BerqiaMouad | 1 | 2026-05-13 |
