@@ -37,6 +37,12 @@ jobs:
             echo "| $USERNAME | 1 | $DATE |" >> "$FILE"
           fi
 
+          # sort table rows by PR count descending
+          HEADER=$(head -5 "$FILE")
+          ROWS=$(tail -n +6 "$FILE" | grep '^|' | sort -t'|' -k3 -rn)
+          echo "$HEADER" > "$FILE"
+          echo "$ROWS" >> "$FILE"
+
           if git diff --quiet "$FILE"; then
             echo "No changes needed"
             exit 0
