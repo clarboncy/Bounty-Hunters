@@ -336,6 +336,12 @@
     "last_pr": "2026-05-14T21:13:45.692Z"
   },
   {
+    "username": "Colonel-Courtz",
+    "total_prs": 2,
+    "first_pr": "2026-05-14T22:31:54.071Z",
+    "last_pr": "2026-05-14T22:36:19.010Z"
+  },
+  {
     "username": "694410194",
     "total_prs": 1,
     "first_pr": "2026-05-13T13:33:33Z",
@@ -550,11 +556,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-14T21:26:48.524Z",
     "last_pr": "2026-05-14T21:26:48.524Z"
-  },
-  {
-    "username": "Colonel-Courtz",
-    "total_prs": 1,
-    "first_pr": "2026-05-14T22:31:54.071Z",
-    "last_pr": "2026-05-14T22:31:54.071Z"
   }
 ]
