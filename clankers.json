@@ -1,9 +1,9 @@
 [
   {
     "username": "Gaotax2006",
-    "total_prs": 329,
+    "total_prs": 335,
     "first_pr": "2026-05-17T08:21:34.383Z",
-    "last_pr": "2026-05-19T09:32:46.063Z"
+    "last_pr": "2026-05-19T12:38:14.940Z"
   },
   {
     "username": "jynbil1",
@@ -276,6 +276,18 @@
     "last_pr": "2026-05-16T16:54:00.798Z"
   },
   {
+    "username": "gacorpoll-ui",
+    "total_prs": 9,
+    "first_pr": "2026-05-19T03:34:40.600Z",
+    "last_pr": "2026-05-19T10:52:54.885Z"
+  },
+  {
+    "username": "coolcam2",
+    "total_prs": 9,
+    "first_pr": "2026-05-19T08:45:15.968Z",
+    "last_pr": "2026-05-19T13:16:15.408Z"
+  },
+  {
     "username": "hamademon168-bot",
     "total_prs": 9,
     "first_pr": "2026-05-16T11:38:28.534Z",
@@ -528,10 +540,16 @@
     "last_pr": "2026-05-16T17:22:17.445Z"
   },
   {
-    "username": "gacorpoll-ui",
+    "username": "whutlichao",
     "total_prs": 4,
-    "first_pr": "2026-05-19T03:34:40.600Z",
-    "last_pr": "2026-05-19T10:33:26.642Z"
+    "first_pr": "2026-05-19T12:28:47.842Z",
+    "last_pr": "2026-05-19T12:39:39.694Z"
+  },
+  {
+    "username": "jing11223344",
+    "total_prs": 4,
+    "first_pr": "2026-05-16T15:45:23.584Z",
+    "last_pr": "2026-05-19T13:07:08.486Z"
   },
   {
     "username": "CuboYe",
@@ -750,10 +768,22 @@
     "last_pr": "2026-05-18T21:40:35.688Z"
   },
   {
-    "username": "jing11223344",
+    "username": "LittleK-513",
     "total_prs": 2,
-    "first_pr": "2026-05-16T15:45:23.584Z",
-    "last_pr": "2026-05-19T01:10:15.940Z"
+    "first_pr": "2026-05-13T10:19:25Z",
+    "last_pr": "2026-05-19T11:51:29.084Z"
+  },
+  {
+    "username": "houyiai",
+    "total_prs": 2,
+    "first_pr": "2026-05-19T12:21:34.426Z",
+    "last_pr": "2026-05-19T13:22:58.040Z"
+  },
+  {
+    "username": "showmara",
+    "total_prs": 2,
+    "first_pr": "2026-05-19T13:41:31.330Z",
+    "last_pr": "2026-05-19T13:42:24.313Z"
   },
   {
     "username": "kingskuan",
@@ -784,12 +814,6 @@
     "total_prs": 1,
     "first_pr": "2026-05-13T07:16:29Z",
     "last_pr": "2026-05-13T07:16:29Z"
-  },
-  {
-    "username": "LittleK-513",
-    "total_prs": 1,
-    "first_pr": "2026-05-13T10:19:25Z",
-    "last_pr": "2026-05-13T10:19:25Z"
   },
   {
     "username": "Saskboys",
@@ -1096,12 +1120,6 @@
     "total_prs": 1,
     "first_pr": "2026-05-19T06:31:50.305Z",
     "last_pr": "2026-05-19T06:31:50.305Z"
-  },
-  {
-    "username": "coolcam2",
-    "total_prs": 1,
-    "first_pr": "2026-05-19T08:45:15.968Z",
-    "last_pr": "2026-05-19T08:45:15.968Z"
   },
   {
     "username": "MichisGitIsKing",
