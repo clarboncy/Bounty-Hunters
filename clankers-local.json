@@ -750,6 +750,12 @@
     "last_pr": "2026-05-20T06:43:01.781Z"
   },
   {
+    "username": "elektropionir2",
+    "total_prs": 2,
+    "first_pr": "2026-05-20T06:47:17.454Z",
+    "last_pr": "2026-05-20T07:01:24.326Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -1072,11 +1078,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-20T05:54:35.230Z",
     "last_pr": "2026-05-20T05:54:35.230Z"
-  },
-  {
-    "username": "elektropionir2",
-    "total_prs": 1,
-    "first_pr": "2026-05-20T06:47:17.454Z",
-    "last_pr": "2026-05-20T06:47:17.454Z"
   }
 ]
