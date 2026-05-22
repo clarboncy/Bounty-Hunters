@@ -360,6 +360,12 @@
     "last_pr": "2026-05-22T16:44:15.031Z"
   },
   {
+    "username": "genesisrevelationinc-debug",
+    "total_prs": 10,
+    "first_pr": "2026-05-22T14:02:27.948Z",
+    "last_pr": "2026-05-22T20:50:25.967Z"
+  },
+  {
     "username": "gacorpoll-ui",
     "total_prs": 10,
     "first_pr": "2026-05-19T03:34:40.600Z",
@@ -696,6 +702,12 @@
     "last_pr": "2026-05-22T16:59:19.961Z"
   },
   {
+    "username": "Mohamed-elgypaly",
+    "total_prs": 5,
+    "first_pr": "2026-05-21T10:11:03.548Z",
+    "last_pr": "2026-05-22T20:48:15.659Z"
+  },
+  {
     "username": "Alex-2Code",
     "total_prs": 5,
     "first_pr": "2026-05-17T18:07:52.329Z",
@@ -760,12 +772,6 @@
     "total_prs": 4,
     "first_pr": "2026-05-21T07:17:18.505Z",
     "last_pr": "2026-05-21T23:52:04.823Z"
-  },
-  {
-    "username": "Mohamed-elgypaly",
-    "total_prs": 4,
-    "first_pr": "2026-05-21T10:11:03.548Z",
-    "last_pr": "2026-05-22T18:19:56.146Z"
   },
   {
     "username": "CuboYe",
@@ -892,12 +898,6 @@
     "total_prs": 3,
     "first_pr": "2026-05-21T00:05:28.879Z",
     "last_pr": "2026-05-21T13:51:45.948Z"
-  },
-  {
-    "username": "genesisrevelationinc-debug",
-    "total_prs": 3,
-    "first_pr": "2026-05-22T14:02:27.948Z",
-    "last_pr": "2026-05-22T14:41:00.131Z"
   },
   {
     "username": "huthoinguyn",
@@ -1042,6 +1042,12 @@
     "total_prs": 2,
     "first_pr": "2026-05-22T01:35:29.419Z",
     "last_pr": "2026-05-22T04:35:04.499Z"
+  },
+  {
+    "username": "kristinemejia443-netizen",
+    "total_prs": 2,
+    "first_pr": "2026-05-22T18:36:27.649Z",
+    "last_pr": "2026-05-22T20:16:21.727Z"
   },
   {
     "username": "kingskuan",
@@ -1432,12 +1438,6 @@
     "total_prs": 1,
     "first_pr": "2026-05-22T01:48:47.896Z",
     "last_pr": "2026-05-22T01:48:47.896Z"
-  },
-  {
-    "username": "kristinemejia443-netizen",
-    "total_prs": 1,
-    "first_pr": "2026-05-22T18:36:27.649Z",
-    "last_pr": "2026-05-22T18:36:27.649Z"
   },
   {
     "username": "MichisGitIsKing",
