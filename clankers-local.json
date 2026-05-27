@@ -1062,6 +1062,12 @@
     "last_pr": "2026-05-26T03:07:48.298Z"
   },
   {
+    "username": "tszaks",
+    "total_prs": 2,
+    "first_pr": "2026-05-27T13:58:48.925Z",
+    "last_pr": "2026-05-27T14:25:46.136Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -1486,11 +1492,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-27T12:51:30.137Z",
     "last_pr": "2026-05-27T12:51:30.137Z"
-  },
-  {
-    "username": "tszaks",
-    "total_prs": 1,
-    "first_pr": "2026-05-27T13:58:48.925Z",
-    "last_pr": "2026-05-27T13:58:48.925Z"
   }
 ]
