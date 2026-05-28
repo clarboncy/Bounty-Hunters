@@ -144,6 +144,12 @@
     "last_pr": "2026-05-23T11:59:39.364Z"
   },
   {
+    "username": "zhangjiayang6835-cyber",
+    "total_prs": 30,
+    "first_pr": "2026-05-26T17:33:54.308Z",
+    "last_pr": "2026-05-28T22:00:51.878Z"
+  },
+  {
     "username": "sleeppig0314-collab",
     "total_prs": 29,
     "first_pr": "2026-05-15T23:27:20.283Z",
@@ -166,12 +172,6 @@
     "total_prs": 27,
     "first_pr": "2026-05-13T07:00:24Z",
     "last_pr": "2026-05-13T08:21:26Z"
-  },
-  {
-    "username": "zhangjiayang6835-cyber",
-    "total_prs": 27,
-    "first_pr": "2026-05-26T17:33:54.308Z",
-    "last_pr": "2026-05-28T17:34:03.133Z"
   },
   {
     "username": "xlocalvn-svg",
@@ -280,6 +280,12 @@
     "total_prs": 16,
     "first_pr": "2026-05-21T13:24:23.540Z",
     "last_pr": "2026-05-21T22:20:05.506Z"
+  },
+  {
+    "username": "unsiqasik",
+    "total_prs": 15,
+    "first_pr": "2026-05-28T21:06:11.576Z",
+    "last_pr": "2026-05-28T22:14:49.884Z"
   },
   {
     "username": "callmekidz",
@@ -726,6 +732,12 @@
     "last_pr": "2026-05-27T02:17:30.464Z"
   },
   {
+    "username": "Davidrsdiaz",
+    "total_prs": 6,
+    "first_pr": "2026-05-28T22:07:39.551Z",
+    "last_pr": "2026-05-28T22:25:52.332Z"
+  },
+  {
     "username": "CuboYe",
     "total_prs": 6,
     "first_pr": "2026-05-15T21:11:20.255Z",
@@ -1122,6 +1134,12 @@
     "last_pr": "2026-05-16T17:22:43.947Z"
   },
   {
+    "username": "JirA44",
+    "total_prs": 3,
+    "first_pr": "2026-05-28T11:39:37.698Z",
+    "last_pr": "2026-05-28T22:18:22.987Z"
+  },
+  {
     "username": "haisui157",
     "total_prs": 3,
     "first_pr": "2026-05-17T08:29:10.979Z",
@@ -1312,12 +1330,6 @@
     "total_prs": 2,
     "first_pr": "2026-05-16T23:47:04.809Z",
     "last_pr": "2026-05-23T07:48:15.983Z"
-  },
-  {
-    "username": "JirA44",
-    "total_prs": 2,
-    "first_pr": "2026-05-28T11:39:37.698Z",
-    "last_pr": "2026-05-28T12:26:00.984Z"
   },
   {
     "username": "OlegChep",
@@ -1768,6 +1780,12 @@
     "total_prs": 1,
     "first_pr": "2026-05-28T07:19:05.261Z",
     "last_pr": "2026-05-28T07:19:05.261Z"
+  },
+  {
+    "username": "microfixlab91",
+    "total_prs": 1,
+    "first_pr": "2026-05-28T21:08:18.870Z",
+    "last_pr": "2026-05-28T21:08:18.870Z"
   },
   {
     "username": "MichisGitIsKing",
