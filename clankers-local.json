@@ -1194,6 +1194,12 @@
     "last_pr": "2026-05-30T10:22:23.113Z"
   },
   {
+    "username": "Floofy6",
+    "total_prs": 2,
+    "first_pr": "2026-05-31T07:30:47.020Z",
+    "last_pr": "2026-05-31T08:37:02.093Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -1678,11 +1684,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-31T01:44:20.966Z",
     "last_pr": "2026-05-31T01:44:20.966Z"
-  },
-  {
-    "username": "Floofy6",
-    "total_prs": 1,
-    "first_pr": "2026-05-31T07:30:47.020Z",
-    "last_pr": "2026-05-31T07:30:47.020Z"
   }
 ]
