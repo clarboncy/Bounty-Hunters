@@ -180,6 +180,12 @@
     "last_pr": "2026-05-23T11:59:39.364Z"
   },
   {
+    "username": "KK88100",
+    "total_prs": 30,
+    "first_pr": "2026-05-25T17:17:23.876Z",
+    "last_pr": "2026-06-01T02:07:27.840Z"
+  },
+  {
     "username": "sleeppig0314-collab",
     "total_prs": 29,
     "first_pr": "2026-05-15T23:27:20.283Z",
@@ -202,12 +208,6 @@
     "total_prs": 27,
     "first_pr": "2026-05-13T07:00:24Z",
     "last_pr": "2026-05-13T08:21:26Z"
-  },
-  {
-    "username": "KK88100",
-    "total_prs": 27,
-    "first_pr": "2026-05-25T17:17:23.876Z",
-    "last_pr": "2026-05-31T02:07:54.120Z"
   },
   {
     "username": "xlocalvn-svg",
@@ -1236,6 +1236,12 @@
     "last_pr": "2026-05-28T07:53:07.537Z"
   },
   {
+    "username": "cal432689-beep",
+    "total_prs": 3,
+    "first_pr": "2026-05-30T07:34:05.591Z",
+    "last_pr": "2026-06-01T05:20:12.790Z"
+  },
+  {
     "username": "huthoinguyn",
     "total_prs": 3,
     "first_pr": "2026-05-13T08:10:47Z",
@@ -1426,12 +1432,6 @@
     "total_prs": 2,
     "first_pr": "2026-05-30T04:40:50.966Z",
     "last_pr": "2026-05-30T05:58:55.915Z"
-  },
-  {
-    "username": "cal432689-beep",
-    "total_prs": 2,
-    "first_pr": "2026-05-30T07:34:05.591Z",
-    "last_pr": "2026-05-30T10:22:23.113Z"
   },
   {
     "username": "kingskuan",
@@ -1960,6 +1960,12 @@
     "total_prs": 1,
     "first_pr": "2026-05-31T19:23:29.328Z",
     "last_pr": "2026-05-31T19:23:29.328Z"
+  },
+  {
+    "username": "839194950",
+    "total_prs": 1,
+    "first_pr": "2026-06-01T02:08:25.312Z",
+    "last_pr": "2026-06-01T02:08:25.312Z"
   },
   {
     "username": "MichisGitIsKing",
