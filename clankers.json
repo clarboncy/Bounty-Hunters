@@ -120,6 +120,12 @@
     "last_pr": "2026-05-19T03:50:18.098Z"
   },
   {
+    "username": "szamaniai",
+    "total_prs": 42,
+    "first_pr": "2026-05-15T22:35:37.279Z",
+    "last_pr": "2026-06-02T22:12:04.362Z"
+  },
+  {
     "username": "zp6",
     "total_prs": 41,
     "first_pr": "2026-05-14T18:28:53.934Z",
@@ -136,12 +142,6 @@
     "total_prs": 40,
     "first_pr": "2026-05-14T12:19:23.886Z",
     "last_pr": "2026-05-15T12:10:09.995Z"
-  },
-  {
-    "username": "szamaniai",
-    "total_prs": 40,
-    "first_pr": "2026-05-15T22:35:37.279Z",
-    "last_pr": "2026-05-18T07:58:37.187Z"
   },
   {
     "username": "JeremyZeng77",
@@ -778,6 +778,12 @@
     "total_prs": 7,
     "first_pr": "2026-05-27T21:32:27.183Z",
     "last_pr": "2026-05-28T02:54:21.652Z"
+  },
+  {
+    "username": "fennhelloworld",
+    "total_prs": 7,
+    "first_pr": "2026-06-02T16:41:54.428Z",
+    "last_pr": "2026-06-02T20:32:53.869Z"
   },
   {
     "username": "freeediting35-png",
@@ -2002,12 +2008,6 @@
     "total_prs": 1,
     "first_pr": "2026-06-02T04:50:27.912Z",
     "last_pr": "2026-06-02T04:50:27.912Z"
-  },
-  {
-    "username": "fennhelloworld",
-    "total_prs": 1,
-    "first_pr": "2026-06-02T16:41:54.428Z",
-    "last_pr": "2026-06-02T16:41:54.428Z"
   },
   {
     "username": "JamesJi79",
