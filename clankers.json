@@ -36,16 +36,16 @@
     "last_pr": "2026-05-16T02:26:07.904Z"
   },
   {
+    "username": "mkcash",
+    "total_prs": 115,
+    "first_pr": "2026-05-16T16:30:52.575Z",
+    "last_pr": "2026-06-11T10:53:54.220Z"
+  },
+  {
     "username": "szamaniai",
     "total_prs": 110,
     "first_pr": "2026-05-15T22:35:37.279Z",
     "last_pr": "2026-06-09T04:25:51.593Z"
-  },
-  {
-    "username": "mkcash",
-    "total_prs": 108,
-    "first_pr": "2026-05-16T16:30:52.575Z",
-    "last_pr": "2026-06-11T07:22:06.498Z"
   },
   {
     "username": "xyjk0511",
@@ -600,6 +600,12 @@
     "last_pr": "2026-06-07T01:18:08.916Z"
   },
   {
+    "username": "wangedmund77-cmyk",
+    "total_prs": 10,
+    "first_pr": "2026-05-16T14:42:37.757Z",
+    "last_pr": "2026-06-11T09:16:47.645Z"
+  },
+  {
     "username": "gacorpoll-ui",
     "total_prs": 10,
     "first_pr": "2026-05-19T03:34:40.600Z",
@@ -622,12 +628,6 @@
     "total_prs": 9,
     "first_pr": "2026-05-13T08:07:00Z",
     "last_pr": "2026-05-14T16:34:26.274Z"
-  },
-  {
-    "username": "wangedmund77-cmyk",
-    "total_prs": 9,
-    "first_pr": "2026-05-16T14:42:37.757Z",
-    "last_pr": "2026-05-16T16:54:00.798Z"
   },
   {
     "username": "elektropionir2",
@@ -1360,6 +1360,12 @@
     "total_prs": 3,
     "first_pr": "2026-06-10T22:07:06.012Z",
     "last_pr": "2026-06-10T22:12:21.987Z"
+  },
+  {
+    "username": "wwjwjeueususiaiaaiai-star",
+    "total_prs": 3,
+    "first_pr": "2026-06-11T08:01:27.890Z",
+    "last_pr": "2026-06-11T08:08:10.024Z"
   },
   {
     "username": "huthoinguyn",
@@ -2164,6 +2170,12 @@
     "total_prs": 1,
     "first_pr": "2026-06-11T06:22:14.233Z",
     "last_pr": "2026-06-11T06:22:14.233Z"
+  },
+  {
+    "username": "nkar123412-hub",
+    "total_prs": 1,
+    "first_pr": "2026-06-11T09:40:46.657Z",
+    "last_pr": "2026-06-11T09:40:46.657Z"
   },
   {
     "username": "MichisGitIsKing",
