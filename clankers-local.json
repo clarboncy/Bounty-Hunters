@@ -1356,6 +1356,12 @@
     "last_pr": "2026-06-07T04:05:05.406Z"
   },
   {
+    "username": "foreverzyf",
+    "total_prs": 2,
+    "first_pr": "2026-06-11T21:55:59.857Z",
+    "last_pr": "2026-06-11T22:24:15.761Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -1942,11 +1948,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-11T17:25:06.093Z",
     "last_pr": "2026-06-11T17:25:06.093Z"
-  },
-  {
-    "username": "foreverzyf",
-    "total_prs": 1,
-    "first_pr": "2026-06-11T21:55:59.857Z",
-    "last_pr": "2026-06-11T21:55:59.857Z"
   }
 ]
