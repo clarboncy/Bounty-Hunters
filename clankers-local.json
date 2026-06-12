@@ -870,6 +870,12 @@
     "last_pr": "2026-06-12T00:43:17.448Z"
   },
   {
+    "username": "EpilogoCRM",
+    "total_prs": 5,
+    "first_pr": "2026-06-12T00:29:52.350Z",
+    "last_pr": "2026-06-12T00:43:43.285Z"
+  },
+  {
     "username": "spqrcode",
     "total_prs": 4,
     "first_pr": "2026-05-14T12:12:04.319Z",
@@ -958,12 +964,6 @@
     "total_prs": 4,
     "first_pr": "2026-05-16T03:12:57.187Z",
     "last_pr": "2026-06-07T03:48:44.882Z"
-  },
-  {
-    "username": "EpilogoCRM",
-    "total_prs": 4,
-    "first_pr": "2026-06-12T00:29:52.350Z",
-    "last_pr": "2026-06-12T00:43:33.513Z"
   },
   {
     "username": "AidenPeerce",
