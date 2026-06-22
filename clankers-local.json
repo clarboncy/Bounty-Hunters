@@ -1518,6 +1518,12 @@
     "last_pr": "2026-06-18T20:04:11.650Z"
   },
   {
+    "username": "zackliao986",
+    "total_prs": 2,
+    "first_pr": "2026-06-22T01:54:34.461Z",
+    "last_pr": "2026-06-22T02:00:22.211Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2140,11 +2146,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-20T23:30:15.042Z",
     "last_pr": "2026-06-20T23:30:15.042Z"
-  },
-  {
-    "username": "zackliao986",
-    "total_prs": 1,
-    "first_pr": "2026-06-22T01:54:34.461Z",
-    "last_pr": "2026-06-22T01:54:34.461Z"
   }
 ]
