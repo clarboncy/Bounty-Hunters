@@ -55,9 +55,9 @@
   },
   {
     "username": "genesisrevelationinc-debug",
-    "total_prs": 100,
+    "total_prs": 101,
     "first_pr": "2026-05-22T14:02:27.948Z",
-    "last_pr": "2026-06-26T13:02:39.418Z"
+    "last_pr": "2026-06-26T13:08:18.939Z"
   },
   {
     "username": "xyjk0511",
@@ -162,6 +162,12 @@
     "last_pr": "2026-05-19T03:50:18.098Z"
   },
   {
+    "username": "daxia778",
+    "total_prs": 44,
+    "first_pr": "2026-06-26T01:59:32.647Z",
+    "last_pr": "2026-06-26T15:42:15.298Z"
+  },
+  {
     "username": "KK88100",
     "total_prs": 42,
     "first_pr": "2026-05-25T17:17:23.876Z",
@@ -256,12 +262,6 @@
     "total_prs": 29,
     "first_pr": "2026-05-21T10:26:31.897Z",
     "last_pr": "2026-05-22T00:03:22.963Z"
-  },
-  {
-    "username": "daxia778",
-    "total_prs": 29,
-    "first_pr": "2026-06-26T01:59:32.647Z",
-    "last_pr": "2026-06-26T13:02:03.935Z"
   },
   {
     "username": "TUPM96",
@@ -580,6 +580,12 @@
     "total_prs": 12,
     "first_pr": "2026-05-19T06:31:50.305Z",
     "last_pr": "2026-05-20T02:56:12.502Z"
+  },
+  {
+    "username": "dacdoyx",
+    "total_prs": 12,
+    "first_pr": "2026-06-25T21:09:06.264Z",
+    "last_pr": "2026-06-26T15:23:31.060Z"
   },
   {
     "username": "JesusMP22",
@@ -1212,6 +1218,12 @@
     "last_pr": "2026-06-02T07:33:16.776Z"
   },
   {
+    "username": "bx310",
+    "total_prs": 5,
+    "first_pr": "2026-06-26T15:37:28.769Z",
+    "last_pr": "2026-06-26T15:47:57.839Z"
+  },
+  {
     "username": "Alex-2Code",
     "total_prs": 5,
     "first_pr": "2026-05-17T18:07:52.329Z",
@@ -1612,12 +1624,6 @@
     "total_prs": 3,
     "first_pr": "2026-05-13T08:10:47Z",
     "last_pr": "2026-05-16T17:22:43.947Z"
-  },
-  {
-    "username": "dacdoyx",
-    "total_prs": 3,
-    "first_pr": "2026-06-25T21:09:06.264Z",
-    "last_pr": "2026-06-26T04:22:42.068Z"
   },
   {
     "username": "haisui157",
@@ -2506,6 +2512,12 @@
     "total_prs": 1,
     "first_pr": "2026-06-26T07:18:16.932Z",
     "last_pr": "2026-06-26T07:18:16.932Z"
+  },
+  {
+    "username": "mircats98gpt",
+    "total_prs": 1,
+    "first_pr": "2026-06-26T15:51:20.540Z",
+    "last_pr": "2026-06-26T15:51:20.540Z"
   },
   {
     "username": "MichisGitIsKing",
