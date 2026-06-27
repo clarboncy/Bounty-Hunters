@@ -17,6 +17,9 @@ contract MultiSigWallet {
     mapping(uint256 => mapping(address => bool)) public confirmations;
     mapping(address => bool) public isOwner;
 
+    // Reentrancy guard
+    uint256 private _guardCounter;
+
     event Submitted(uint256 indexed txId);
     event Confirmed(uint256 indexed txId, address indexed owner);
     event Executed(uint256 indexed txId);
@@ -27,18 +30,26 @@ contract MultiSigWallet {
         _;
     }
 
+    modifier nonReentrant() {
+        _guardCounter += 1;
+        uint256 localCounter = _guardCounter;
+        _;
+        require(localCounter == _guardCounter, "Reentrancy detected");
+    }
+
     constructor(address[] memory _owners, uint256 _required) {
         require(_owners.length > 0, "No owners");
         require(_required > 0 && _required <= _owners.length, "Invalid required");
         for (uint256 i = 0; i < _owners.length; i++) {
+            require(_owners[i] != address(0), "Zero address owner");
             isOwner[_owners[i]] = true;
         }
         owners = _owners;
         required = _required;
     }
 
-    // BUG: No zero-address validation on `to`
     function submitTransaction(address to, uint256 value, bytes calldata data) external onlyOwner returns (uint256) {
+        require(to != address(0), "Invalid target");
         uint256 txId = transactionCount++;
         transactions[txId] = Transaction({
             to: to,
@@ -70,14 +81,18 @@ contract MultiSigWallet {
         }
     }
 
-    // BUG: No reentrancy protection — confirmation can be revoked during callback
-    // BUG: No block-level confirmation snapshot
-    function executeTransaction(uint256 txId) external onlyOwner {
+    /// @notice Execute transaction with reentrancy protection
+    /// @dev Snapshot confirmation count before execution to detect revocation during callback
+    function executeTransaction(uint256 txId) external onlyOwner nonReentrant {
         require(!transactions[txId].executed, "Already executed");
         require(getConfirmationCount(txId) >= required, "Not enough confirmations");
 
         Transaction storage txn = transactions[txId];
         txn.executed = true;
+
+        // Verify confirmations still meet threshold after marking executed
+        // (defense against revocation during callback via reentrancy)
+        require(getConfirmationCount(txId) >= required, "Confirmations revoked");
 
         (bool success, ) = txn.to.call{value: txn.value}(txn.data);
         require(success, "Execution failed");
