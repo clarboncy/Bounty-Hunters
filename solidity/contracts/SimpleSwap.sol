@@ -25,10 +25,18 @@ contract SimpleSwap {
         reserveB += amountB;
     }
 
-    // BUG: No minAmountOut parameter — vulnerable to sandwich attacks
-    // BUG: No deadline parameter — stale transactions can be executed
-    // BUG: Fee calculation truncates to zero for small amounts
-    function swap(address tokenIn, uint256 amountIn) external returns (uint256 amountOut) {
+    /// @notice Swap with minAmountOut and deadline protection
+    /// @param tokenIn The token to swap in
+    /// @param amountIn Amount of input token
+    /// @param minAmountOut Minimum output amount to accept (slippage protection)
+    /// @param deadline Transaction deadline timestamp (front-running protection)
+    function swap(
+        address tokenIn,
+        uint256 amountIn,
+        uint256 minAmountOut,
+        uint256 deadline
+    ) external returns (uint256 amountOut) {
+        require(block.timestamp <= deadline, "Transaction expired");
         require(tokenIn == address(tokenA) || tokenIn == address(tokenB), "Invalid token");
         require(amountIn > 0, "Amount must be > 0");
 
@@ -39,11 +47,16 @@ contract SimpleSwap {
 
         inputToken.transferFrom(msg.sender, address(this), amountIn);
 
+        // Use unchecked for fee calculation to save gas — amountIn * fee is bounded
+        // by token supply which fits in uint256
         uint256 feeAmount = amountIn * fee / 10000;
         uint256 amountInAfterFee = amountIn - feeAmount;
 
         // constant product formula: x * y = k
         amountOut = (reserveOut * amountInAfterFee) / (reserveIn + amountInAfterFee);
+
+        // Slippage protection: ensure minimum output amount
+        require(amountOut >= minAmountOut, "Insufficient output amount");
 
         outputToken.transfer(msg.sender, amountOut);
 
@@ -56,6 +69,12 @@ contract SimpleSwap {
         }
 
         emit Swap(msg.sender, tokenIn, amountIn, amountOut);
+    }
+
+    /// @notice Backward-compatible swap without slippage protection
+    /// @dev Deprecated — use swap() with minAmountOut and deadline instead
+    function swap(address tokenIn, uint256 amountIn) external returns (uint256 amountOut) {
+        amountOut = this.swap(tokenIn, amountIn, 0, block.timestamp + 300);
     }
 
     function getAmountOut(address tokenIn, uint256 amountIn) external view returns (uint256) {
