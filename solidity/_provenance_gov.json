@@ -1,0 +1,5 @@
+{
+  "tool_name": "Norax AI",
+  "timestamp": "2026-06-29T06:20:00Z",
+  "fix": "tx.origin to msg.sender, Ownable for admin, zero-address guards"
+}
